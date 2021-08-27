@@ -1,6 +1,6 @@
-appId: com.example.nextron
-productName: My Nextron App
-copyright: Copyright © 2018 Yoshihide Shiono
+appId: com.example.code
+productName: CODE - PMAC
+copyright: Copyright © 2021 Coordenadoria de Organização e Desenvolvimento Estratégico
 directories:
   output: dist
   buildResources: resources

@@ -1,6 +1,5 @@
-<p align="center"><img src="https://i.imgur.com/0vkxIMN.png"></p>
 
-## Usage
+## Instalaçao NexteJS com Nextron
 
 ### Create an App
 
