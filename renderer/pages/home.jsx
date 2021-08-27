@@ -28,7 +28,7 @@ function Home() {
   return (
     <React.Fragment>
       <Head>
-        <title>Home - Nextron (with-javascript-material-ui)</title>
+        <title>Home - CODE</title>
       </Head>
       <div className={classes.root}>
         <Dialog open={open} onClose={handleClose}>
